@@ -1,9 +1,9 @@
 
 # Olá, eu sou Daniel Queiroz! 👋
 
-### Mestrando em Engenharia Elétrica | Desenvolvedor de Software | Pesquisador em IA
+### Mestrando em Engenharia Elétrica | Desenvolvedor de Software | Pesquisador 
 
-**Python | JavaScript | TypeScript | C/C++ | C# | React Native | Inteligência Artificial | Verificação Formal**
+**P | JavaScript | TypeScript | C/C++ | C# | React Native | Inteligência Artificial | Python| Verificação Formal**
 
 Tenho interesse em desenvolvimento de software, pesquisa científica e criação de soluções tecnológicas. Gosto de entender os problemas, explorar diferentes abordagens e transformar ideias em aplicações funcionais.
 
