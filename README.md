@@ -1,11 +1,11 @@
 
 # Olá, eu sou Daniel Queiroz! 👋
 
-### Cientista da Computação | Desenvolvedor de Software | Pesquisador em IA
+### Mestrando em Engenharia Elétrica | Desenvolvedor de Software | Pesquisador em IA
 
 **Python | JavaScript | TypeScript | C/C++ | C# | React Native | Inteligência Artificial | Verificação Formal**
 
-Sou graduado em Ciência da Computação pela Universidade Federal da Paraíba (UFPB) e tenho interesse em desenvolvimento de software, pesquisa científica e criação de soluções tecnológicas. Gosto de entender os problemas, explorar diferentes abordagens e transformar ideias em aplicações funcionais.
+Tenho interesse em desenvolvimento de software, pesquisa científica e criação de soluções tecnológicas. Gosto de entender os problemas, explorar diferentes abordagens e transformar ideias em aplicações funcionais.
 
 Minha trajetória envolve projetos de desenvolvimento, pesquisa e extensão, com experiências em aplicações móveis, sistemas computacionais e estudos interdisciplinares. Também tenho trabalhos científicos publicados em eventos nacionais e internacionais.
 
