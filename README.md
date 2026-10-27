@@ -19,7 +19,7 @@ Também me interesso pela integração entre aprendizado de máquina, explicabil
 
 ### 💻 Tecnologias e ferramentas
 
-- **Linguagens:** Python, JavaScript, TypeScript, Java, C, C++ e C#.
+- **Linguagens:** P, Python, JavaScript, TypeScript, Java, C, C++ e C#.
 - **Desenvolvimento:** Node.js, React Native, Angular e APIs REST.
 - **Inteligência Artificial:** redes neurais, aprendizado de máquina e Explainable AI.
 - **Verificação formal:** linguagem P, PChecker e modelagem de máquinas de estados.
